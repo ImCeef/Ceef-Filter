@@ -369,9 +369,9 @@ ItemDisplay[UNI !ID xkp !ETH]: %RED%Rockstopper
 //Rockstopper ETH
 ItemDisplay[UNI !ID xkp ETH]: %RED%ETH Rockstopper
 //Stealskull
-ItemDisplay[UNI !ID xlm !ETH]: %RED%Stealskull
+ItemDisplay[UNI !ID xlm !ETH]: %TAN%Stealskull
 //Stealskull ETH
-ItemDisplay[UNI !ID xlm ETH]: %RED%ETH Stealskull
+ItemDisplay[UNI !ID xlm ETH]: %TAN%ETH Stealskull
 //Darksight Helm
 ItemDisplay[UNI !ID xhl !ETH]: %TAN%Darksight Helm
 //Darksight Helm ETH
@@ -635,7 +635,7 @@ ItemDisplay[UNI !ID xow !ETH]: %RED%Gerke's Sanctuary
 //Gerke's Sanctuary
 ItemDisplay[UNI !ID xow ETH]: %TAN%ETH Gerke's Sanctuary
 //Lidless Wall
-ItemDisplay[UNI !ID xsh !ETH]: %RED%O Lidless Wall %RED%O
+ItemDisplay[UNI !ID xsh !ETH]: %TAN% Lidless Wall %TAN%
 //Lidless Wall
 ItemDisplay[UNI !ID xsh ETH]: %TAN%ETH Lidless Wall
 //Radament's Sphere
@@ -808,7 +808,7 @@ ItemDisplay[UNI !ID zvb !ETH]: %RED%O Razortail %RED%O
 //Razortail
 ItemDisplay[UNI !ID zvb ETH]: %RED%ETH Razortail
 //Gloom's Trap
-ItemDisplay[UNI !ID zmb !ETH]: %RED%Gloom's Trap
+ItemDisplay[UNI !ID zmb !ETH]: %TAN%Gloom's Trap
 //Gloom's Trap
 ItemDisplay[UNI !ID zmb ETH]: %TAN%ETH Gloom's Trap
 //Snowclash
@@ -1127,7 +1127,7 @@ ItemDisplay[UNI !ID 7cl !ETH]: %TAN%Nord's Tenderizer
 //Nord's Tenderizer
 ItemDisplay[UNI !ID 7cl ETH]: %TAN%ETH Nord's Tenderizer
 //Demon Limb
-ItemDisplay[UNI !ID 7sp !ETH]: %RED%Demon Limb
+ItemDisplay[UNI !ID 7sp !ETH]: %TAN%Demon Limb
 //ETH Demon Limb
 ItemDisplay[UNI !ID 7sp ETH]: %RED%ETH Demon Limb
 //Baranar's Star
@@ -1434,9 +1434,9 @@ ItemDisplay[UNI !ID 9cr !ETH]: %TAN%Ginther's Rift
 //ETH Ginther's Rift
 ItemDisplay[UNI !ID 9cr ETH]: %RED%ETH Ginther's Rift
 //Headstriker (100% deadly strike sword)
-ItemDisplay[UNI !ID 9bs !ETH]: %RED%Headstriker
+ItemDisplay[UNI !ID 9bs !ETH]: %TAN%Headstriker
 //Headstriker (100% deadly strike sword)
-ItemDisplay[UNI !ID 9bs ETH]: %RED%ETH Headstriker
+ItemDisplay[UNI !ID 9bs ETH]: %TAN%ETH Headstriker
 //Plague Bearer (Rabies sword)
 ItemDisplay[UNI !ID 9ls !ETH]: %RED%Plague Bearer
 //Plague Bearer (Rabies sword)
@@ -1462,9 +1462,9 @@ ItemDisplay[UNI !ID 9b9 !ETH]: %TAN%Cloudcrack
 //Cloudcrack
 ItemDisplay[UNI !ID 9b9 ETH]: %TAN%ETH Cloudcrack
 //Todesfaelle Flamme (The RF Sword)
-ItemDisplay[UNI !ID 9fb !ETH]: %RED%O Todesfaelle Flamme %RED%O
+ItemDisplay[UNI !ID 9fb !ETH]: %TAN% Todesfaelle Flamme %TAN%
 //Todesfaelle Flamme (The RF Sword)
-ItemDisplay[UNI !ID 9fb ETH]: %RED%ETH Todesfaelle Flamme
+ItemDisplay[UNI !ID 9fb ETH]: %TAN%ETH Todesfaelle Flamme
 //Swordguard
 ItemDisplay[UNI !ID 9gd !ETH]: %TAN%Swordguard
 //Swordguard
@@ -1592,7 +1592,7 @@ ItemDisplay[UNI !ID ama !ETH]: %RED%O Titan's Revenge %RED%O
 //Titan's Revenge
 ItemDisplay[UNI !ID ama ETH]: %RED%O ETH Titan's Revenge %RED%O
 //Thunderstroke
-ItemDisplay[UNI !ID amf !ETH]: %RED%O Thunderstroke %RED%O
+ItemDisplay[UNI !ID amf !ETH]: %TAN% Thunderstroke
 //Thunderstroke
 ItemDisplay[UNI !ID amf ETH]: %TAN%ETH Thunderstroke
 //Blood Raven's Charge (got lvl 5 revive (30charges))
@@ -1920,7 +1920,7 @@ ItemDisplay[SET !ID paf]: %GREEN%%NAME% %DGREEN%Griswold's
 //Haemosu's Adamant
 ItemDisplay[SET !ID xrs]: %GREEN%%NAME% %DGREEN%Heaven's Brethren
 //Dangoon's Teaching
-ItemDisplay[SET !ID 7ma]: %RED%¤ %GREEN%%NAME% %DGREEN%Dangoon's Teaching %RED%¤
+ItemDisplay[SET !ID 7ma]:  %GREEN%%NAME% %DGREEN%Dangoon's Teaching
 //Taebaek's Glory
 ItemDisplay[SET !ID uts]: %GREEN%%NAME% %DGREEN%Heaven's Brethren
 //Ondal's Almighty (50% reduced skill cooldown for 4 seconds on striking)
