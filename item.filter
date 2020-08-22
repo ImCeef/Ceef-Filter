@@ -361,13 +361,13 @@ ItemDisplay[UNI !ID bhm !ETH]: %TAN%Wormskull
 //Wormskull ETH
 ItemDisplay[UNI !ID bhm ETH]: %TAN%ETH Wormskull
 //Peasant Crown
-ItemDisplay[UNI !ID xap !ETH]: %RED%Peasant Crown
+ItemDisplay[UNI !ID xap !ETH]: %TAN%Peasant Crown
 //Peasant Crown ETH
-ItemDisplay[UNI !ID xap ETH]: %TAN%ETH Peasant Crown
+ItemDisplay[UNI !ID xap ETH]: %TAN% Peasant Crown
 //Rockstopper
-ItemDisplay[UNI !ID xkp !ETH]: %RED%Rockstopper
+ItemDisplay[UNI !ID xkp !ETH]: %TAN%Rockstopper
 //Rockstopper ETH
-ItemDisplay[UNI !ID xkp ETH]: %RED%ETH Rockstopper
+ItemDisplay[UNI !ID xkp ETH]: %TAN%ETH Rockstopper
 //Stealskull
 ItemDisplay[UNI !ID xlm !ETH]: %TAN%Stealskull
 //Stealskull ETH
@@ -389,7 +389,7 @@ ItemDisplay[UNI !ID xrn !ETH]: %RED%Crown of Thieves
 //Crown of Thieves ETH
 ItemDisplay[UNI !ID xrn ETH]: %RED%ETH Crown of Thieves
 //Vampire Gaze
-ItemDisplay[UNI !ID xh9 !ETH]: %RED%O %PURPLE%Vampire Gaze %RED%O
+ItemDisplay[UNI !ID xh9 !ETH]: %RED%O Vampire Gaze O
 //Vampire Gaze ETH
 ItemDisplay[UNI !ID xh9 ETH]: %RED%O %PURPLE%ETH Vampire Gaze %RED%O
 //Shako
@@ -639,9 +639,9 @@ ItemDisplay[UNI !ID xsh !ETH]: %TAN% Lidless Wall %TAN%
 //Lidless Wall
 ItemDisplay[UNI !ID xsh ETH]: %TAN%ETH Lidless Wall
 //Radament's Sphere
-ItemDisplay[UNI !ID xts !ETH]: %RED%O Radament's Sphere %RED%O
+ItemDisplay[UNI !ID xts !ETH]: %TAN% Radament's Sphere 
 //Radament's Sphere
-ItemDisplay[UNI !ID xts ETH]: %TAN%ETH Radament's Sphere
+ItemDisplay[UNI !ID xts ETH]: %TAN% Radament's Sphere
 //Blackoak Shield
 ItemDisplay[UNI !ID uml !ETH]: %TAN%Blackoak Shield
 //Blackoak Shield
@@ -749,7 +749,7 @@ ItemDisplay[UNI !ID xlb !ETH]: %RED%Infernostride
 //Infernostride
 ItemDisplay[UNI !ID xlb ETH]: %TAN%ETH Infernostride
 //Waterwalk
-ItemDisplay[UNI !ID xvb !ETH]: %RED%O Waterwalk %RED%O
+ItemDisplay[UNI !ID xvb !ETH]: %TAN% Waterwalk
 //Waterwalk
 ItemDisplay[UNI !ID xvb ETH]: %TAN%ETH Waterwalk
 //Silkweave
@@ -997,7 +997,7 @@ ItemDisplay[UNI !ID mxb]: %TAN%Ichorsting
 //Hellcast
 ItemDisplay[UNI !ID hxb]: %TAN%Hellcast
 //Doomslinger
-ItemDisplay[UNI !ID rxb]: %RED%O Doomslinger %RED%O
+ItemDisplay[UNI !ID rxb]: %TAN%Doomslinger
 //Langer Briser
 ItemDisplay[UNI !ID 8lx]: %TAN%Langer Briser
 //Pus Spitter
@@ -1046,13 +1046,13 @@ ItemDisplay[UNI !ID 9bl !ETH]: %TAN%Stormspike
 //Stormspike
 ItemDisplay[UNI !ID 9bl ETH]: %TAN%ETH Stormspike
 //Wizardspike
-ItemDisplay[UNI !ID 7dg !ETH]: %RED%O Wizardspike %RED%O
+ItemDisplay[UNI !ID 7dg !ETH]: %TAN% Wizardspike 
 //Wizardspike
-ItemDisplay[UNI !ID 7dg ETH]: %RED%O ETH Wizardspike %RED%O
+ItemDisplay[UNI !ID 7dg ETH]: %TAN% ETH Wizardspike 
 //Fleshripper
-ItemDisplay[UNI !ID 7kr !ETH]: %RED%O Fleshripper %RED%O
+ItemDisplay[UNI !ID 7kr !ETH]: %TAN% Fleshripper 
 //Fleshripper
-ItemDisplay[UNI !ID 7kr ETH]: %RED%ETH Fleshripper
+ItemDisplay[UNI !ID 7kr ETH]: %TAN% Fleshripper
 //ETH Ghostflame (always eth)
 ItemDisplay[UNI !ID 7bl ETH]: %RED%ETH Ghostflame
 
@@ -1206,9 +1206,9 @@ ItemDisplay[UNI !ID 7o7 !ETH]: %RED%Bonehew
 //Bonehew
 ItemDisplay[UNI !ID 7o7 ETH]: %RED%O ETH Bonehew %RED%O
 //Reaper's Toll
-ItemDisplay[UNI !ID 7s8 !ETH]: %RED%O Reaper's Toll %RED%O
+ItemDisplay[UNI !ID 7s8 !ETH]: %TAN% Reaper's Toll 
 //ETH Reaper's Toll
-ItemDisplay[UNI !ID 7s8 ETH]: %RED%O %PURPLE%ETH Reaper's Toll %RED%O
+ItemDisplay[UNI !ID 7s8 ETH]: %TAN% %PURPLE%ETH Reaper's Toll 
 //Tomb Reaver
 ItemDisplay[UNI !ID 7pa !ETH]: %RED%O Tomb Reaver %RED%O
 //Tomb Reaver
@@ -1296,7 +1296,7 @@ ItemDisplay[UNI !ID 9p9 !ETH]: %TAN%Spire of Honor
 //Spire of Honor
 ItemDisplay[UNI !ID 9p9 ETH]: %TAN%ETH Spire of Honor
 //Arioc's Needle
-ItemDisplay[UNI !ID 7sr !ETH]: %RED%Arioc's Needle
+ItemDisplay[UNI !ID 7sr !ETH]: %TAN%Arioc's Needle
 //Arioc's Needle
 ItemDisplay[UNI !ID 7sr ETH]: %TAN%ETH Arioc's Needle
 //Viperfork
@@ -1515,7 +1515,7 @@ ItemDisplay[UNI !ID gwn !ETH]: %TAN%Ume's Lament
 //Ume's Lament
 ItemDisplay[UNI !ID gwn ETH]: %TAN%ETH Ume's Lament
 //Suicide Branch (great lvling wand for casters)
-ItemDisplay[UNI !ID 9wn !ETH]: %RED%Suicide Branch
+ItemDisplay[UNI !ID 9wn !ETH]: %TAN%Suicide Branch
 //Suicide Branch (great lvling wand for casters)
 ItemDisplay[UNI !ID 9wn ETH]: %RED%ETH Suicide Branch
 //Carin Shard
@@ -1554,7 +1554,7 @@ ItemDisplay[UNI !ID 7bk !ETH]: %RED%O Warshrike %RED%O
 //ETH Warshrike
 ItemDisplay[UNI !ID 7bk ETH]: %RED%O %PURPLE%ETH Warshrike %RED%O
 //Gimmershred
-ItemDisplay[UNI !ID 7ta !ETH]: %RED%Gimmershred
+ItemDisplay[UNI !ID 7ta !ETH]: %RED%Gimmershred (High ED Only)
 //ETH Gimmershred
 ItemDisplay[UNI !ID 7ta ETH]: %TAN%ETH Gimmershred
 //Lacerator
