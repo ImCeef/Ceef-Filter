@@ -4311,7 +4311,8 @@ ItemDisplay[CL2 !UNI !SET (TABSK32>2 AND SK133>2)]: %NAME% %ORANGE%+3 Comb +3 E-
 ItemDisplay[CL2 !UNI !SET (CLSK4>1 AND SK133>2)]: %NAME% %ORANGE%+2 Barb +3 E-Throw %RED%[%SOCKETS%]
 
 //6 sox good weapon bases
-ItemDisplay[WEAPON NMAG (mpi OR wax OR 7mp OR 7wa OR 7gi OR 7gm OR hal OR spt OR 9cr OR 7gd OR lbb) SOCK=6]: %GRAY%%NAME% %WHITE%[%SOCKETS%]
+ItemDisplay[WEAPON NMAG (lbb) SOCK=6]: %PURPLE%CEEFS HAPPY MF BOW
+ItemDisplay[WEAPON NMAG (mpi OR wax OR 7mp OR 7wa OR 7gi OR 7gm OR hal OR spt OR 9cr OR 7gd) SOCK=6]: %GRAY%%NAME% %WHITE%[%SOCKETS%]
 
 //Hide all 0 socket normal NonMagical items to reduce lag for low lvl
 ItemDisplay[NMAG !ELT !EXC SOCK=0 !ED>0 ILVL<5 !RW !leg]:
