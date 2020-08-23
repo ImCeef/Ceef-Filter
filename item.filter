@@ -161,8 +161,8 @@ ItemDisplay[r26]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%
 ItemDisplay[r27]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%
 ItemDisplay[r28]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%
 ItemDisplay[r29]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%
-ItemDisplay[r30]: %PURPLE% OOO%GREEN%HYPE%RED%OOO %RED%%RUNENAME%%PURPLE% OOO%GREEN%HYPE%RED%OOO [%RUNENUM%] %RED%
-ItemDisplay[r31]: %PURPLE% OOO%GREEN%HYPE%RED%OOO %RED%%RUNENAME%%PURPLE% OOO%GREEN%HYPE%RED%OOO [%RUNENUM%] %RED%
+ItemDisplay[r30]: %PURPLE% OOO%GREEN%HYPE%RED%OOO %DGREEN%%RUNENAME%%PURPLE% OOO%GREEN%HYPE%RED%OOO [%RUNENUM%] %RED%
+ItemDisplay[r31]: %PURPLE% OOO%GREEN%HYPE%RED%OOO %DGREEN%%RUNENAME%%PURPLE% OOO%GREEN%HYPE%RED%OOO [%RUNENUM%] %RED%
 ItemDisplay[r32]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%
 ItemDisplay[r33]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%
 
@@ -618,7 +618,7 @@ ItemDisplay[UNI !ID xuc !ETH]: %TAN%Visceratuant
 //Visceratuant
 ItemDisplay[UNI !ID xuc ETH]: %TAN%ETH Visceratuant
 //Moser's Blessed Circle
-ItemDisplay[UNI !ID xml !ETH]: %RED%Moser's Blessed Circle
+ItemDisplay[UNI !ID xml !ETH]: %TAN%Moser's Blessed Circle
 //Moser's Blessed Circle
 ItemDisplay[UNI !ID xml ETH]: %TAN%ETH Moser's Blessed Circle
 //Stormchaser
@@ -634,7 +634,7 @@ ItemDisplay[UNI !ID xpk !ETH]: %TAN%Lance Guard
 //Lance Guard
 ItemDisplay[UNI !ID xpk ETH]: %TAN%ETH Lance Guard
 //Gerke's Sanctuary
-ItemDisplay[UNI !ID xow !ETH]: %RED%Gerke's Sanctuary
+ItemDisplay[UNI !ID xow !ETH]: %TAN%Gerke's Sanctuary
 //Gerke's Sanctuary
 ItemDisplay[UNI !ID xow ETH]: %TAN%ETH Gerke's Sanctuary
 //Lidless Wall
@@ -740,7 +740,7 @@ ItemDisplay[UNI !ID mbt !ETH]: %TAN%Treads of Cthon
 //Treads of Cthon
 ItemDisplay[UNI !ID mbt ETH]: %TAN%ETH Treads of Cthon
 //Goblin Toe
-ItemDisplay[UNI !ID tbt !ETH]: %RED%Goblin Toe
+ItemDisplay[UNI !ID tbt !ETH]: %TAN%Goblin Toe
 //Goblin Toe
 ItemDisplay[UNI !ID tbt ETH]: %TAN%ETH Goblin Toe
 //Tearhaunch
@@ -831,7 +831,7 @@ ItemDisplay[UNI !ID uvc !ETH]: %RED%O Nosferatu's Coil %RED%O
 //Nosferatu's Coil
 ItemDisplay[UNI !ID uvc ETH]: %TAN%ETH Nosferatu's Coil
 //Verdungo's Hearty Cord
-ItemDisplay[UNI !ID umc !ETH]: %RED%O %PURPLE%Verdungo's Hearty Cord %RED%O
+ItemDisplay[UNI !ID umc !ETH]: %RED%O %RED%Verdungo's Hearty Cord %RED%O
 //Verdungo's Hearty Cord
 ItemDisplay[UNI !ID umc ETH]: %RED%ETH Verdungo's Hearty Cord
 
@@ -973,11 +973,11 @@ ItemDisplay[UNI !ID 8sb]: %TAN%Skystrike
 //Riphook
 ItemDisplay[UNI !ID 8hb]: %TAN%Riphook
 //Kuko Shakaku
-ItemDisplay[UNI !ID 8lb]: %RED%Kuko Shakaku
+ItemDisplay[UNI !ID 8lb]: %TAN%Kuko Shakaku
 //Endlesshail
 ItemDisplay[UNI !ID 8cb]: %TAN%Endlesshail
 //Witchwild String
-ItemDisplay[UNI !ID 8s8]: %RED%Witchwild String
+ItemDisplay[UNI !ID 8s8]: %TAN%Witchwild String
 //Cliffkiller
 ItemDisplay[UNI !ID 8l8]: %TAN%Cliffkiller
 //Magewrath
@@ -1303,9 +1303,9 @@ ItemDisplay[UNI !ID 7sr !ETH]: %TAN%Arioc's Needle
 //Arioc's Needle
 ItemDisplay[UNI !ID 7sr ETH]: %TAN%ETH Arioc's Needle
 //Viperfork
-ItemDisplay[UNI !ID 7br !ETH]: %RED%O Viperfork %RED%O
+ItemDisplay[UNI !ID 7br !ETH]: %TAN% Viperfork 
 //Viperfork
-ItemDisplay[UNI !ID 7br ETH]: %RED%O ETH Viperfork %RED%O
+ItemDisplay[UNI !ID 7br ETH]: %TAN% Viperfork
 //Steel Pillar
 ItemDisplay[UNI !ID 7p7 !ETH]: %RED%O Steel Pillar %RED%O
 //Steel Pillar
@@ -1487,7 +1487,7 @@ ItemDisplay[UNI !ID 7ls !ETH]: %RED%Frostwind
 //Frostwind (arctic blast +14 can do fun builds)
 ItemDisplay[UNI !ID 7ls ETH]: %TAN%ETH Frostwind
 //Flamebellow (flame dash +18)
-ItemDisplay[UNI !ID 7gs !ETH]: %RED%Flamebellow
+ItemDisplay[UNI !ID 7gs !ETH]: %TAN%Flamebellow
 //Flamebellow (flame dash +18)
 ItemDisplay[UNI !ID 7gs ETH]: %TAN%ETH Flamebellow
 //Doombringer
@@ -1986,9 +1986,9 @@ ItemDisplay[SET !ID xmb]: %RED%¤ %GREEN%%NAME% %DGREEN%Natalya's %RED%¤
 //Naj's Circlet
 ItemDisplay[SET !ID ci0]: %GREEN%%NAME% %DGREEN%Naj's
 //Naj's Light Plate
-ItemDisplay[SET !ID ult]: %RED%O %GREEN%%NAME% %DGREEN%Naj's %RED%O
+ItemDisplay[SET !ID ult]: %GREEN%%NAME% %DGREEN%Naj's
 //Naj's Puzzler
-ItemDisplay[SET !ID 6cs]: %RED%¤ %GREEN%%NAME% %DGREEN%Naj's %RED%¤
+ItemDisplay[SET !ID 6cs]: %GREEN%%NAME% %DGREEN%Naj's
 
 //Orphan's Call
 //
@@ -2026,26 +2026,26 @@ ItemDisplay[SET !ID upl]: %RED%¤ %GREEN%%NAME% %DGREEN%Sazabi's %RED%¤
 //Tal Rasha's Wrappings
 //
 //Tal Rasha's Lidless Eye
-ItemDisplay[SET !ID oba]: %RED%O %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%O
+ItemDisplay[SET !ID oba]:  %GREEN%%NAME% %DGREEN%Tal Rasha's
 //Tal Rasha's Horadric Crest
 ItemDisplay[SET !ID xsk]: %RED%O %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%O
 //Tal Rasha's Guardianship
 ItemDisplay[SET !ID uth]: %PURPLE%O %GREEN%%NAME% %DGREEN%Tal Rasha's %PURPLE%O
 //Tal Rasha's Fine-Spun Cloth
-ItemDisplay[SET !ID zmb]: %RED%O %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%O
+ItemDisplay[SET !ID zmb]: %GREEN%%NAME% %DGREEN%Tal Rasha's 
 
 //Trang-Oul's Avatar
 //
 //Trang-Oul's Guise
-ItemDisplay[SET !ID uh9]: %RED%¤ %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%¤
+ItemDisplay[SET !ID uh9]: %GREEN%%NAME% %DGREEN%Trang-Oul's
 //Trang-Oul's Scales
-ItemDisplay[SET !ID xul]: %RED%¤ %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%¤
+ItemDisplay[SET !ID xul]: %GREEN%%NAME% %DGREEN%Trang-Oul's
 //Trang-Oul's Wing
-ItemDisplay[SET !ID ne9]: %RED%O %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%O
+ItemDisplay[SET !ID ne9]: %GREEN%%NAME% %DGREEN%Trang-Oul's
 //Trang-Oul's Girth
-ItemDisplay[SET !ID utc]: %RED%O %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%O
+ItemDisplay[SET !ID utc]: %GREEN%%NAME% %DGREEN%Trang-Oul's 
 //Trang-Oul's Claws
-ItemDisplay[SET !ID xmg]: %RED%O %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%O
+ItemDisplay[SET !ID xmg]: %GREEN%%NAME% %DGREEN%Trang-Oul's
 
 ItemDisplay[SET !ID amu]: %RED%O %GREEN%%NAME% %RED%O
 
