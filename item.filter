@@ -94,7 +94,7 @@ ItemDisplay[aq2 RARE]: %NAME%
 ItemDisplay[aq2 UNI]: %NAME%
 ItemDisplay[aq2 SET]: %NAME%
 ItemDisplay[cq2 MAG ILVL>50]:
-ItemDisplay[cq2 RARE]: %NAME%
+ItemDisplay[cq2 RARE]: %PURPLE% >> %YELLOW%%NAME% %PURPLE% <<
 ItemDisplay[cq2 UNI]: %NAME%
 ItemDisplay[cq2 SET]: %NAME%
 
@@ -122,8 +122,7 @@ ItemDisplay[WP12 NMAG !ETH (wnd OR ywn OR 9wn) ILVL>49 (SK73>1 OR SK79>2 OR SK82
 ItemDisplay[WP12 NMAG !ETH SOCK=1 (SK73>1 OR SK79>2 OR SK82>2 OR SK83>1 OR SK85>2 OR SK86>1 OR SK87>1 OR SK88>1 OR SK89>0 OR SK90>1 OR SK91>1 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0)]: %NAME% %ORANGE%($%PRICE%)
 ItemDisplay[NMAG !ETH !ED=15 (7tk OR 7ta OR 7bk)]: Throw%ORANGE% ($%PRICE%)
 
-//Arrows
-ItemDisplay[RARE (aqv) !ETH !ID]: %PURPLE%>>>>%YELLOW%%NAME%%PURPLE%<<<<
+
 
 //All norm white items 1sox hidden
 ItemDisplay[NMAG SOCK=1 !leg]:
@@ -282,13 +281,13 @@ ItemDisplay[RARE !ID]:
 //CHARMS
 //Rerolling
 //Grand Charms
-ItemDisplay[MAG cm3 !ID ILVL>77]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% ¤
+ItemDisplay[MAG cm3 !ID ILVL>77]: %PURPLE%>>>>> %BLUE% ¤ Not a Skiller ¤ %BLUE% %PURPLE%<<<<<
 ItemDisplay[MAG cm3 ILVL>77]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[MAG cm3 !ID ILVL<78 ILVL>49]: %BLUE%¤ %NAME% %WHITE%[L%ILVL%]%BLUE% ¤
 
 //Small Charms
-ItemDisplay[MAG cm1 !ID ILVL>89]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% ¤
-ItemDisplay[MAG cm1 !ID ILVL<90 ILVL>47]: %BLUE%¤ %NAME% %WHITE%[L%ILVL%]%BLUE% ¤
+ItemDisplay[MAG cm1 !ID ILVL>89]: %PURPLE%>>>>> %BLUE% ¤ Smol Charm ¤ %BLUE% %PURPLE%<<<<<
+ItemDisplay[MAG cm1 !ID ILVL<90 ILVL>47]: %PURPLE%>>>>> %BLUE% ¤ %NAME% ¤ %BLUE% %PURPLE%<<<<<
 ItemDisplay[MAG cm1 !ID ILVL=47]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% ¤
 ItemDisplay[MAG cm1 ILVL=47]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[MAG cm1 ILVL>89]: %NAME% %ORANGE%[L%ILVL%]
@@ -324,7 +323,7 @@ ItemDisplay[MAG rin ILVL>94]: %BLUE%%NAME%%ORANGE% [CLVL 74+]
 ItemDisplay[MAG rin ILVL<86]: %BLUE%%NAME%%WHITE% [L%ILVL%]
 
 //Magic Jewels
-ItemDisplay[MAG !ID jew]: %BLUE% ¤ %NAME% ¤ %BLUE%
+ItemDisplay[MAG !ID jew]: %PURPLE%>>>>> %BLUE% ¤ %NAME% ¤ %BLUE% %PURPLE%<<<<<
 ItemDisplay[MAG jew]: %BLUE%%NAME%%WHITE% [L%ILVL%]
 
 ////UNIQUE ITEMS////
@@ -563,9 +562,9 @@ ItemDisplay[UNI !ID upl !ETH]: %RED%O %PURPLE%Arkaine's Valor %RED%O
 //Arkaine's Valor
 ItemDisplay[UNI !ID upl ETH]: %RED%ETH Arkaine's Valor
 //Leviathan
-ItemDisplay[UNI !ID uld !ETH]: %RED%O Leviathan %RED%O
+ItemDisplay[UNI !ID uld !ETH]: %TAN% Leviathan %TAN%
 //Leviathan
-ItemDisplay[UNI !ID uld ETH]: %RED%O ETH Leviathan %RED%O
+ItemDisplay[UNI !ID uld ETH]: %TAN& Leviathan %TAN%
 //Steel Carapace
 ItemDisplay[UNI !ID uul !ETH]: %TAN%Steel Carapace
 //Steel Carapace
