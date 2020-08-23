@@ -90,11 +90,11 @@ ItemDisplay[vps CLVL<22]: %GREEN%!%WHITE%Stamina
 ItemDisplay[vps CLVL>21]:
 //Hide MAGIC Quivers & Bolts above level 40
 ItemDisplay[aq2 MAG ILVL>50]:
-ItemDisplay[aq2 RARE]: %NAME%
+ItemDisplay[aq2 RARE]: %PURPLE% >> %YELLOW%%NAME% %PURPLE% <<
 ItemDisplay[aq2 UNI]: %NAME%
 ItemDisplay[aq2 SET]: %NAME%
 ItemDisplay[cq2 MAG ILVL>50]:
-ItemDisplay[cq2 RARE]: %PURPLE% >> %YELLOW%%NAME% %PURPLE% <<
+ItemDisplay[cq2 RARE]: %NAME%
 ItemDisplay[cq2 UNI]: %NAME%
 ItemDisplay[cq2 SET]: %NAME%
 
