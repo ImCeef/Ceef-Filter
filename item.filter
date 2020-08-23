@@ -286,8 +286,8 @@ ItemDisplay[MAG cm3 ILVL>77]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[MAG cm3 !ID ILVL<78 ILVL>49]: %BLUE%¤ %NAME% %WHITE%[L%ILVL%]%BLUE% ¤
 
 //Small Charms
-ItemDisplay[MAG cm1 !ID ILVL>89]: %PURPLE%>>>>> %BLUE% ¤ Smol Charm ¤ %BLUE% %ORANGE%%ILVL%%PURPLE% <<<<<
-ItemDisplay[MAG cm1 !ID ILVL<90 ILVL>47]: %>>>>> %BLUE% ¤ Smol Charm ¤ %BLUE% %PURPLE%<<<<<
+ItemDisplay[MAG cm1 !ID ILVL>89]: %PURPLE%>>>>> %RED% ¤ Smol Charm ¤ %ORANGE%%ILVL%%PURPLE% <<<<<
+ItemDisplay[MAG cm1 !ID ILVL<90 ILVL>47]: %>>>>> %RED% ¤ Smol Charm ¤ %PURPLE%<<<<<
 ItemDisplay[MAG cm1 !ID ILVL=47]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% ¤
 ItemDisplay[MAG cm1 ILVL=47]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[MAG cm1 ILVL>89]: %NAME% %ORANGE%[L%ILVL%]
