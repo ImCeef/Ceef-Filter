@@ -55,9 +55,9 @@ ItemDisplay[UNI !ID cm4]: %RED%  ¤ Horadrim Sigil ¤  %RED%
 //Wirt's Leg
 ItemDisplay[leg]: %NAME%
 //Uber Keys
-ItemDisplay[pk1]: %ORANGE%Terror [Countess]
-ItemDisplay[pk2]: %ORANGE%Hate [Summoner]
-ItemDisplay[pk3]: %ORANGE%Destruction [Nihlathak]
+ItemDisplay[pk1]: %ORANGE%KEY - ACT 1 -%GREEN% Terror
+ItemDisplay[pk2]: %ORANGE%KEY - ACT 2 -%RED% Hate
+ItemDisplay[pk3]: %ORANGE%KEY - ACT 5 -%PURPLE% Destruction
 ItemDisplay[dhn]: %ORANGE%Diablo's Horn
 ItemDisplay[bey]: %ORANGE%Baal's Eye
 ItemDisplay[mbr]: %ORANGE%Mephisto's Brain
@@ -323,7 +323,7 @@ ItemDisplay[MAG rin ILVL>94]: %BLUE%%NAME%%ORANGE% [CLVL 74+]
 ItemDisplay[MAG rin ILVL<86]: %BLUE%%NAME%%WHITE% [L%ILVL%]
 
 //Magic Jewels
-ItemDisplay[MAG !ID jew]: %PURPLE%>>>>> %BLUE% ¤ %NAME% ¤ %BLUE% %PURPLE%<<<<<
+ItemDisplay[MAG !ID jew]: %PURPLE%>>>>> %BLUE% ¤JEWEL¤ %BLUE% %PURPLE%<<<<<
 ItemDisplay[MAG jew]: %BLUE%%NAME%%WHITE% [L%ILVL%]
 
 ////UNIQUE ITEMS////
