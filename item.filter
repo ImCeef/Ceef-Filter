@@ -211,7 +211,7 @@ ItemDisplay[gsb CLVL>39]:
 ItemDisplay[gsy CLVL>39]:
 ItemDisplay[sku CLVL>39]:
 //Gems flawless
-ItemDisplay[gzv]: %ORANGE%Amethyst
+ItemDisplay[gzv]: %PURPLE%OOO%ORANGE%Amethyst%PURPLE%OOO
 ItemDisplay[glw]: %ORANGE%Diamond
 ItemDisplay[glg]: %ORANGE%Emerald
 ItemDisplay[glr]: %ORANGE%Ruby
