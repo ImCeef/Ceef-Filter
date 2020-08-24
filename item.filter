@@ -281,13 +281,13 @@ ItemDisplay[RARE !ID]:
 //CHARMS
 //Rerolling
 //Grand Charms
-ItemDisplay[MAG cm3 !ID ILVL>77]: %PURPLE%>>>>> %RED% ¤ Not %DGREEN%a %YELLOW%Skiller ¤  %PURPLE%<<<<<
+ItemDisplay[MAG cm3 !ID ILVL>77]: %PURPLE%>>%RED%¤Not %DGREEN%a %YELLOW%Skiller¤%PURPLE%<<
 ItemDisplay[MAG cm3 ILVL>77]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[MAG cm3 !ID ILVL<78 ILVL>49]: %BLUE%¤ %NAME% %WHITE%[L%ILVL%]%BLUE% ¤
 
 //Small Charms
-ItemDisplay[MAG cm1 !ID ILVL>89]: %PURPLE%>>>>> %RED% ¤ Smol Charm ¤ %ORANGE%%ILVL%%PURPLE% <<<<<
-ItemDisplay[MAG cm1 !ID ILVL<90 ILVL>47]: %>>>>> %RED% ¤ Smol Charm ¤ %PURPLE%<<<<<
+ItemDisplay[MAG cm1 !ID ILVL>89]: %PURPLE%>> %ORANGE% ¤ Smol Charm ¤ %RED%%ILVL%%PURPLE% <<
+ItemDisplay[MAG cm1 !ID ILVL<90 ILVL>47]: %PURPLE%>> %ORANGE% ¤ Smol Charm ¤ %PURPLE%<<
 ItemDisplay[MAG cm1 !ID ILVL=47]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% ¤
 ItemDisplay[MAG cm1 ILVL=47]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[MAG cm1 ILVL>89]: %NAME% %ORANGE%[L%ILVL%]
@@ -387,9 +387,9 @@ ItemDisplay[UNI !ID xsk !ETH]: %TAN%Blackhorn's Face
 //Blackhorn's Face ETH
 ItemDisplay[UNI !ID xsk ETH]: %TAN%ETH Blackhorn's Face
 //Crown of Thieves
-ItemDisplay[UNI !ID xrn !ETH]: %RED%Crown of Thieves
+ItemDisplay[UNI !ID xrn !ETH]: %TAN%Crown of Thieves
 //Crown of Thieves ETH
-ItemDisplay[UNI !ID xrn ETH]: %RED%ETH Crown of Thieves
+ItemDisplay[UNI !ID xrn ETH]: %TAN% Crown of Thieves
 //Vampire Gaze
 ItemDisplay[UNI !ID xh9 !ETH]: %RED%O Vampire Gaze O
 //Vampire Gaze ETH
@@ -980,9 +980,9 @@ ItemDisplay[UNI !ID 8s8]: %TAN%Witchwild String
 //Cliffkiller
 ItemDisplay[UNI !ID 8l8]: %TAN%Cliffkiller
 //Magewrath
-ItemDisplay[UNI !ID 8sw]: %RED%Magewrath
+ItemDisplay[UNI !ID 8sw]: %TAN%Magewrath
 //Goldstrike Arch
-ItemDisplay[UNI !ID 8lw]: %RED%O Goldstrike Arch %RED%O
+ItemDisplay[UNI !ID 8lw]: %TAN%Goldstrike Arch 
 //Eaglehorn
 ItemDisplay[UNI !ID 6l7]: %RED%Eaglehorn
 //Widowmaker
@@ -1085,7 +1085,7 @@ ItemDisplay[UNI !ID whm !ETH]: %TAN%Ironstone
 //Ironstone
 ItemDisplay[UNI !ID whm ETH]: %TAN%ETH Ironstone
 //Bonesnap
-ItemDisplay[UNI !ID mau !ETH]: %RED%Bonesnap
+ItemDisplay[UNI !ID mau !ETH]: %TAN%Bonesnap
 //Bonesnap
 ItemDisplay[UNI !ID mau ETH]: %TAN%ETH Bonesnap
 //Steeldriver
@@ -1290,9 +1290,9 @@ ItemDisplay[UNI !ID 9br !ETH]: %TAN%Soulfeast Time
 //Soulfeast Time
 ItemDisplay[UNI !ID 9br ETH]: %TAN%ETH Soulfeast Time
 //Hone Sundan
-ItemDisplay[UNI !ID 9st !ETH]: %RED%O Hone Sundan %RED%O
+ItemDisplay[UNI !ID 9st !ETH]: %TAN% Hone Sundan %TAN%
 //ETH Hone Sundan
-ItemDisplay[UNI !ID 9st ETH]: %RED%O %PURPLE%ETH Hone Sundan %RED%O
+ItemDisplay[UNI !ID 9st ETH]: %TAN% ETH Hone Sundan
 //Spire of Honor
 ItemDisplay[UNI !ID 9p9 !ETH]: %TAN%Spire of Honor
 //Spire of Honor
