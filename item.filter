@@ -1994,7 +1994,7 @@ ItemDisplay[SET !ID 6cs]: %GREEN%%NAME% %DGREEN%Naj's
 //Guillaume's Face
 ItemDisplay[SET !ID xhm]: %RED%O %GREEN%%NAME% %DGREEN%Orphan's (Guillaume's Face) %RED%O
 //Whitstan's Guard
-ItemDisplay[SET !ID xml]: %RED%¤ %GREEN%%NAME% %DGREEN%Orphan's %RED%¤
+ItemDisplay[SET !ID xml]:  %GREEN%%NAME% %DGREEN%Orphan's 
 //Magnus' Skin
 ItemDisplay[SET !ID xvg]: %GREEN%%NAME% %DGREEN%Orphan's
 //Wilhelm's Pride
@@ -3434,7 +3434,7 @@ ItemDisplay[7h7 ETH !RW NMAG SOCK=6]: %DGREEN%ETH %NAME% %RED%[%SOCKETS%]
 //4os
 ItemDisplay[7wc !ETH !RW NMAG SOCK=4]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 //4os ETH
-ItemDisplay[7wc ETH !RW NMAG SOCK=4]: %DGREEN%ETH %NAME% %PURPLE%[%SOCKETS%]
+ItemDisplay[7wc ETH !RW NMAG SOCK=4]: %PURPLE%BASE >>>>>> %DGREEN%ETH %NAME% %PURPLE%[%SOCKETS%]
 //5os
 ItemDisplay[7wc !ETH !RW NMAG SOCK=5]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 //5os ETH
